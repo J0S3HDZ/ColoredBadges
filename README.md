@@ -1,11 +1,4 @@
 # Colored Badges for GitHub profiles
-I've put together some badges I for my [GitHub profile readme](https://github.com/MikeCodesDotNET) as shown below and thought they might be useful to others. 
-
-<p align="center">
-  <a href="#">
-    <img src="help/mybiopage.png" alt="my github bio page!" style="vertical-align:top; margin:6px 4px">
-  </a> 
-</p>
 
 ---
 
